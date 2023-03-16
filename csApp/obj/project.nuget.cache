@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "z4GIxMNaqBx+MUAgls1haOB2RJydy92ymI+nxfBSi/nK/tZkf9AuVLBw+ImWUD3F7cC7iJuINkWEkEd/AXMweQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\oriol\\source\\repos\\github\\csApp\\csApp\\csApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\oriol\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\oriol\\.nuget\\packages\\openrgb.net\\2.1.0\\openrgb.net.2.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

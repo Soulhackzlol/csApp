@@ -1,4 +1,4 @@
-# CS:GO App (dont know how to call this so...)
+# CS:GO App (csApp)
 This is a simple application that listens for changes in a game of Counter-Strike: Global Offensive (CS:GO) and changes the RGB lighting of OpenRGB-compatible devices accordingly.
 
 ![pic1](https://user-images.githubusercontent.com/52952716/224498884-cf5cf964-d2ee-49cc-afe3-69faa4ffcc97.png)
