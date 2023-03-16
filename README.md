@@ -9,23 +9,49 @@ This is a simple application that listens for changes in a game of Counter-Strik
 
 ![pic4](https://user-images.githubusercontent.com/52952716/224498951-0eed7449-d983-4f2d-b1c3-3f2f1a3718de.png)
 
+# NEW! csApp Menu.
+The csApp Menu App its a simple implementation of this concept. 
+
+![image](https://user-images.githubusercontent.com/52952716/225639610-14957d83-80e7-40d4-85d0-ed4f89d171f0.png)
+
+![image](https://user-images.githubusercontent.com/52952716/225639761-0feae606-6e65-41f1-ac25-b74e5560d05b.png)
+
+
 # Requirements
 - .NET 6.0 runtime
 - OpenRGB running with SDK server enabled
 - Json.NET - Newtonsoft
 
 # Usage
-- Make sure OpenRGB is running with the SDK server enabled. To do this, open the OpenRGB app and go to "SDK Server", start it and you should be good to go! 
 
+## csApp:
 - Clone or download the repository.
 
 - Build the project.
+
+- Make sure OpenRGB is running with the SDK server enabled. To do this, open the OpenRGB app and go to "SDK Server", start it and you should be good to go! 
 
 - Run the application.
 
 - Select the device you want to control from the list of available devices using the arrow keys and press "Enter" to confirm your selection.
 
 - The application will now start listening for changes in CS:GO. When a bomb is planted, the RGB lighting of the selected device(s) will change to reflect the bomb's timer.
+
+
+## csApp Menu
+- Clone or download the repository.
+
+- Build the project.
+
+- Run the application (you can now start the app without OpenRGB server Started, just make sure to Start it before clicking "Connect").
+
+- Make sure OpenRGB is running with the SDK server enabled. To do this, open the OpenRGB app and go to "SDK Server", start it and you should be good to go! 
+
+- The application will now start listening for changes in CS:GO. When a bomb is planted, the RGB lighting of the selected device(s) will change to reflect the bomb's timer.
+
+- You can also go to "Settings" and change colors! 
+
+- Check out the "Vars" tab to see some useful info! 
 
 # Acknowledgements
 ## This application makes use of the following libraries:
